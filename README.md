@@ -2,6 +2,8 @@
 
 &nbsp;
 
+[**Диплом**](https://github.com/AVKopt/Yandex_Practicum/blob/main/diplom.pdf)
+
 ## Список проектов
 
 &nbsp;
